@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @guneet420
+- 🌱 I’m currently learning data science and information system design
+- 💞️ I’m looking to collaborate on NLP and text analytics
+- 📫 guneet.singh0@outlook.com
